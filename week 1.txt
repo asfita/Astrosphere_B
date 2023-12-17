@@ -1,3 +1,5 @@
 week 1
 Nama saya Asfita
 123456
+
+learning git 2
